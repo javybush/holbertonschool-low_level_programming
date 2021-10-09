@@ -2,7 +2,7 @@
 
 /*
  *main - Entry point
- *Description: main "main"
+ *Description: puts "main"
  *Description: prints "Programming is like building a multilingual puzzle"
  *Return: Always 0 (Success)
  */
