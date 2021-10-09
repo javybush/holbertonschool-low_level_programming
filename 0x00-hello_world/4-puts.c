@@ -2,6 +2,7 @@
 
 /*
  *main - Entry point
+ *main: "function"
  *Description: prints "Programming is like building a multilingual puzzle"
  *Return: Always 0 (Success)
  */
